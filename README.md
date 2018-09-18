@@ -24,3 +24,13 @@ Bu kadar basit bir algoritmanın bu kadar düzgün çalışacağını hayal etme
     2018 - 2019 MEB çalışma takvimine göre okulların ne zaman açılacağı kesinleşti;
     Buna göre okulların açılma tarihi birinci dönem başlangıcı 17 Eylül 2018 Pazartesi günü olacak ve 18 Ocak 2019 cuma gününe kadar devam edecek
     15 günlük yarıyıl tatilinin ardından ikinci dönem 4 Şubat 2019 Pazartesi başlayacak ve önümüzdeki dönem okullar 14 Haziran 2019 cuma günü kapanacak
+
+## Sonuçlar
+
+Özetleme oranı 3 olarak seçildiğinde daha az seçimle daha kısa hale gelebilir ama anlam kaymaları olabilir bu mentinde 3 en güzel ve dolu cevabı verdi.
+
+
+Orijinal Metin Uzunluğu (Karakter) : 1336
+Özet Metin Uzunluğu (Karakter) : 397
+
+özetleme Oranı: %70.284431137725
