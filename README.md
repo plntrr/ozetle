@@ -1,0 +1,2 @@
+# ozetle
+Metin Özetleme Zımbırtısı
