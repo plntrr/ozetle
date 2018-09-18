@@ -35,4 +35,4 @@ Orijinal Metin Uzunluğu (Karakter) : 1336
 Özet Metin Uzunluğu (Karakter) : 397
 
 
-özetleme Oranı: %70.284431137725
+Özetleme Oranı: %70.284431137725 Azalış
