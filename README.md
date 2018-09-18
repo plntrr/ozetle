@@ -31,6 +31,8 @@ Bu kadar basit bir algoritmanın bu kadar düzgün çalışacağını hayal etme
 
 
 Orijinal Metin Uzunluğu (Karakter) : 1336
+
 Özet Metin Uzunluğu (Karakter) : 397
+
 
 özetleme Oranı: %70.284431137725
